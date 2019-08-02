@@ -30,7 +30,7 @@ def read(fname):
 
 core_dependencies = [
     'tendril-utils-core',
-    'tendril-dox-wallet',
+    'tendril-dox-wallet>=0.1.5',
     'PyPDF2',
 ]
 
